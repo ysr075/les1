@@ -4,7 +4,7 @@ def begin():
     print("loop started")
 
 def midden():
-    for i in range(1, 11):
+    for i in range(1, 10):
         print("loop ", i)
         time.sleep(1)
 
